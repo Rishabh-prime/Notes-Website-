@@ -17,6 +17,4 @@ A simple note-taking web application to help you stay organized and keep track o
 
 ## How to Use
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/note-app.git
+
