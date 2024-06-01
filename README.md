@@ -16,5 +16,8 @@ A simple note-taking web application to help you stay organized and keep track o
 - JavaScript
 
 ## How to Use
+- Type the title on title bar
+- Type the note on the note bar
+- Click on the "Add" button to add the note 
 
 
